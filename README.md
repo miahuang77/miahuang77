@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👽 I'm Mia
 
 <!--
 **miahuang77/miahuang77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an undergraduate student at the University of British Columbia, taking Combined Major in Business and Computer Science, with a minor in Statistics. I like to build new stuff that is cute and useful
+
+### 👽 I have learned...
+NumPy, pandas, matplotlib, C++, Next.js, CSS, Java
+
+### 👽 I am currently learning...
+I am really interested in exploring the intercept of statistical theory and finance. I am currently learning about a stochastic process.
+
+### 👽 I am currently working on...
+A stochastic process consisting of
+- Random Walk
+- Brownian Motion
+- Geometric Brownian Motion
+- Ornstein-Uhlenbeck Process
+
+### 👽 Things I would like to work on in the near future...
+An option-pricing model using Monte Carlo simulation, with potential variance reduction
