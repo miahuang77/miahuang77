@@ -23,11 +23,7 @@ NumPy, pandas, matplotlib, C++, Next.js, CSS, Java
 I am really interested in exploring the intercept of statistical theory and finance. I am currently learning about a stochastic process.
 
 ### 👽 I am currently working on...
-A stochastic process consisting of
-- Random Walk
-- Brownian Motion
-- Geometric Brownian Motion
-- Ornstein-Uhlenbeck Process
+An option-pricing model using Monte Carlo simulation, with potential variance reduction
 
 ### 👽 Things I would like to work on in the near future...
-An option-pricing model using Monte Carlo simulation, with potential variance reduction
+volatility clustering study
