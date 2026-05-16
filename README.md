@@ -20,7 +20,7 @@ I am an undergraduate student at the University of British Columbia, taking Comb
 NumPy, pandas, matplotlib, C++, Next.js, CSS, Java
 
 ### 👽 I am currently learning...
-I am really interested in exploring the intercept of statistical theory and finance. I am currently learning about a stochastic process.
+I am really interested in exploring the intercept of statistical theory and finance. I am currently learning about stochastic process.
 
 ### 👽 I am currently working on...
 An option-pricing model using Monte Carlo simulation, with potential variance reduction
