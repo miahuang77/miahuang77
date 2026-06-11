@@ -21,9 +21,3 @@ NumPy, pandas, matplotlib, C++, Next.js, CSS, Java
 
 ### 👽 I am currently learning...
 I am really interested in exploring the intercept of statistical theory and finance. I am currently learning about stochastic process.
-
-### 👽 I am currently working on...
-An option-pricing model using Monte Carlo simulation, with potential variance reduction
-
-### 👽 Things I would like to work on in the near future...
-volatility clustering study
